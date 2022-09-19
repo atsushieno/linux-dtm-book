@@ -56,7 +56,7 @@ edt: ["atsushieno"]
 # a-oth, oth: その他
 # a-pht, pht: 撮影責任者
 # a-pbl, pbl: 出版社（発行所）
-pbl: atsushieno
+pbl: オーディオプラグイン研究所
 # a-prt, prt: 印刷所
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
@@ -74,7 +74,7 @@ date: 2022-9-25
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2022-9-11 技術書典13版 v1.0.0"]]
+history: [["2022-9-25 技術書典13版 v0.9.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
 rights: (C) 2022 atsushieno
