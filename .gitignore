@@ -9,3 +9,4 @@ articles/*.html
 # articles/*.md
 articles/*.xml
 articles/*.txt
+articles/images/*.png
